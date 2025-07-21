@@ -79,7 +79,7 @@ DATABASES = {
         'NAME': 'mydatabase',
         'USER': 'root',
         'PASSWORD': 'rootpassword',
-        'HOST': 'mysql',
+        'HOST': 'django-react-mysql-app-allinone_mysql_1',
         'PORT': '3306',
     }
 }
